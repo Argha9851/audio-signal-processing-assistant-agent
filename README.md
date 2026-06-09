@@ -216,7 +216,7 @@ User Query
 
 The full project report is available in this repository:
 
-📄 **[Audio_Signal_Processing_Assistant_Report.pdf](./Audio_Signal_Processing_Assistant_Report.pdf)**
+
 
 ---
 
